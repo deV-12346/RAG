@@ -1,0 +1,315 @@
+HIMACHAL PRADESH TRAVEL KNOWLEDGE BASE
+Purpose: Starter text for a Himachal Pradesh travel AI assistant using RAG.
+Important: This is a general destination guide, not live travel data. Confirm current road status, weather, permits, opening hours, prices, transport schedules, and package availability from official or current sources before advising a traveler.
+
+1. HIMACHAL PRADESH: OVERVIEW
+
+Himachal Pradesh is a mountainous state in northern India in the western Himalayas. Its landscapes include high Himalayan peaks, valleys, rivers, forests, apple orchards, lakes, meadows, and hill towns. Shimla is the state capital. Hindi is widely used; several local Pahari languages and dialects are also spoken. The Indian rupee (INR, ₹) is the currency.
+
+Common travel interests include mountain scenery, trekking, snow experiences, temples, monasteries, local food, adventure sports, wildlife, photography, road trips, and quiet village stays.
+
+Travel conditions vary sharply by altitude and season. Lower hill stations may be accessible for much of the year, while high-altitude destinations such as Spiti and some mountain passes can face snow, landslides, road closures, or permit requirements. Travelers should check official advisories and local conditions before departure.
+
+2. MAJOR DESTINATIONS
+
+SHIMLA
+- Overview: The state capital, known for colonial-era architecture, ridge-top views, markets, and nearby forested hills.
+- Common places to explore: The Ridge, Mall Road, Christ Church, Jakhoo Temple, Viceregal Lodge/Indian Institute of Advanced Study (check visitor access), Kufri, Mashobra, Naldehra, and nearby villages.
+- Typical activities: Walking tours, shopping, viewpoints, heritage architecture, short nature walks, and family holidays.
+- Best suited for: First-time visitors, families, couples, and short hill-station breaks.
+- General duration: 2-3 days for Shimla and nearby highlights; longer if exploring surrounding areas.
+- Notes: Mall Road and The Ridge are pedestrian-oriented in many sections. Traffic and parking can be difficult during peak holidays.
+
+MANALI
+- Overview: A popular Kullu Valley town with mountain scenery, the Beas River, cafes, temples, and access to high-altitude landscapes.
+- Common places to explore: Hadimba Devi Temple, Old Manali, Manu Temple area, Vashisht hot springs and temple, Naggar, Solang Valley, and Atal Tunnel/Lahaul excursions when conditions permit.
+- Typical activities: Sightseeing, cafes, river views, trekking, skiing or snow activities when available, paragliding and other adventure activities with licensed operators.
+- Best suited for: Couples, families, groups, adventure travelers, and longer mountain holidays.
+- General duration: 3-5 days depending on day trips and adventure activities.
+- Notes: Rohtang Pass access may require permits and is subject to seasonal restrictions. Do not assume snow is available at a particular time or location.
+
+KULLU
+- Overview: A valley region known for the Beas River, temples, orchards, and access to mountain villages.
+- Common interests: Kullu town, Naggar, river scenery, local handicrafts, temples, and seasonal festivals.
+- Typical duration: 1-2 days as part of a Kullu-Manali itinerary.
+- Notes: Festival dates, river activities, and local attractions should be checked for the travel dates.
+
+KASOL AND PARVATI VALLEY
+- Overview: A valley area popular with backpackers, hikers, cafes, forests, and riverside scenery.
+- Common places and villages: Kasol, Manikaran, Chalal, Tosh, and Barshaini as access to some hikes.
+- Typical activities: Village walks, cafes, nature photography, and treks where routes are open and safe.
+- Best suited for: Backpackers, small groups, and travelers interested in relaxed valley stays.
+- General duration: 2-4 days.
+- Notes: Mountain trails can be steep and slippery. Respect village customs, private property, waste rules, and local safety advice. Check trail conditions before hiking.
+
+MANIKARAN
+- Overview: A settlement in Parvati Valley known for hot springs and religious significance.
+- Common interests: Gurudwaras, temples, hot springs, and valley scenery.
+- Typical duration: A half-day visit or an overnight stop as part of a Parvati Valley trip.
+- Notes: Respect religious customs and follow local instructions around hot springs and worship areas.
+
+DHARAMSHALA AND MCLEOD GANJ
+- Overview: Mountain towns in Kangra district associated with Tibetan culture, monasteries, cafes, and views of the Dhauladhar range.
+- Common places to explore: Tsuglagkhang Complex and associated Tibetan cultural sites, Bhagsunag Temple and waterfall area, Dal Lake near Dharamshala, St. John in the Wilderness Church, and local markets.
+- Typical activities: Monastery visits, cultural learning, cafes, short hikes, and mountain photography.
+- Best suited for: Culture-focused travelers, couples, solo travelers, and people seeking a slower trip.
+- General duration: 2-4 days.
+- Notes: Religious sites may have dress, photography, or visitor rules. Check local access and trail conditions.
+
+BIR BILLING
+- Overview: A well-known paragliding area in Kangra district, with Tibetan monasteries and village scenery.
+- Typical activities: Paragliding with qualified, authorized operators, cafes, monastery visits, and short walks.
+- Best suited for: Adventure travelers and short weekend trips.
+- General duration: 1-3 days.
+- Notes: Paragliding depends on weather, wind, operator authorization, and safety decisions. Never promise that a flight will operate on a specific date without confirmation.
+
+DALHOUSIE AND KHAJJIAR
+- Overview: Dalhousie is a hill station known for pine-covered slopes and colonial-era buildings. Khajjiar is a meadow area often visited on the same trip.
+- Common places to explore: Mall Road, Panchpula, viewpoints, Khajjiar meadow, and nearby forest walks where open.
+- Typical activities: Scenic drives, walks, photography, and relaxed family holidays.
+- General duration: 2-3 days.
+- Notes: Road conditions and access to outdoor activities may change in winter or during heavy rain.
+
+CHAMBA
+- Overview: A historic town known for temples, local traditions, and mountain scenery.
+- Common interests: Chamba town, heritage temples, local crafts, and nearby valleys.
+- Typical duration: 1-2 days, or longer as part of a regional trip.
+- Notes: Verify opening times and local transport before planning temple or village visits.
+
+SPITI VALLEY
+- Overview: A high-altitude, cold-desert region known for dramatic landscapes, Buddhist monasteries, remote villages, and clear skies.
+- Common places: Kaza, Key Monastery, Kibber, Langza, Hikkim, Komic, Dhankar, Tabo, and Pin Valley, subject to road and local access conditions.
+- Typical activities: Monastery visits, village stays, photography, stargazing, and scenic drives.
+- Best suited for: Travelers comfortable with remote areas, long drives, basic services, and altitude-related challenges.
+- General duration: 5-8 days or more, depending on route and starting point.
+- Notes: High altitude can cause acute mountain sickness. Acclimatize gradually, stay hydrated, avoid overexertion on arrival, and seek medical help for severe symptoms. Road access varies by season. Do not assume a route is open; verify current conditions. Some travelers use the Shimla-Kinnaur route for a longer season, but it still requires current road checks. The Manali-Kaza route is generally highly seasonal and may be closed by snow.
+
+KINNAUR
+- Overview: A mountainous district known for apple orchards, traditional villages, river valleys, and views of high peaks.
+- Common places: Kalpa, Reckong Peo, Sangla, Chitkul, and Nako, depending on route and access.
+- Typical activities: Village walks, landscape photography, local culture, and scenic road trips.
+- General duration: 3-6 days depending on the itinerary.
+- Notes: Mountain roads can be narrow and exposed. Check weather, road closures, and any applicable local restrictions. Respect local customs and sacred places.
+
+TIRTHAN VALLEY AND GREAT HIMALAYAN NATIONAL PARK AREA
+- Overview: A nature-focused region with rivers, forests, villages, and access to trekking areas around the Great Himalayan National Park.
+- Typical activities: Nature walks, birdwatching, village stays, fishing only where legal, and guided treks.
+- General duration: 2-4 days.
+- Notes: National park entry and trekking may require permits, registered guides, or advance arrangements. Confirm current park rules.
+
+KANGRA AND PALAMPUR
+- Overview: Kangra Valley combines tea gardens, temples, heritage sites, and views of the Dhauladhar mountains. Palampur is known for tea gardens and a relaxed atmosphere.
+- Common interests: Tea gardens, Baijnath Temple, Kangra Fort, local markets, and village scenery.
+- General duration: 2-3 days, depending on stops.
+- Notes: Check access and opening hours for forts, temples, and heritage attractions.
+
+RECKONG PEO, KALPA, SANGLA, AND CHITKUL
+- Overview: These destinations in Kinnaur are known for mountain views, orchards, traditional settlements, and remote-road-trip experiences.
+- Typical activities: Village walks, photography, local food, and scenic drives.
+- Notes: Chitkul and other high or remote areas can face severe weather and road restrictions. Confirm access before departure and do not drive beyond safe conditions.
+
+3. SEASONAL TRAVEL GUIDE
+
+SPRING (ROUGHLY MARCH-APRIL)
+- Lower and mid-altitude areas become greener and flowers may bloom.
+- Weather can change quickly; higher areas may still have snow.
+- Suitable for sightseeing and some lower-altitude walks, depending on conditions.
+
+SUMMER (ROUGHLY MAY-JUNE)
+- Popular for hill-station holidays and escaping plains heat.
+- Destinations such as Shimla, Manali, Dharamshala, and parts of Kinnaur are busy.
+- Book transport and accommodation early for holidays.
+- High-altitude road openings are not guaranteed by a fixed date.
+
+MONSOON (ROUGHLY JULY-SEPTEMBER)
+- Heavy rain can trigger landslides, flash floods, road closures, and travel delays.
+- Check weather warnings and district administration advisories before and during travel.
+- Avoid riverbanks during heavy rain and never cross flooded roads or streams.
+- Flexible itineraries and buffer days are important.
+
+AUTUMN (ROUGHLY OCTOBER-NOVEMBER)
+- Often offers clear views and cooler weather, though conditions vary by altitude.
+- Some high-altitude routes begin closing or become more difficult as snow arrives.
+- Carry warm clothing and confirm transport availability.
+
+WINTER (ROUGHLY DECEMBER-FEBRUARY)
+- Cold conditions and snowfall are possible, especially at higher elevations.
+- Some areas may offer snow activities when conditions and operators permit.
+- Roads may close temporarily; carry suitable clothing and check vehicle and road requirements.
+- Do not promise snowfall: timing and location vary from year to year.
+
+4. SAMPLE ITINERARY IDEAS
+
+2-DAY SHIMLA BREAK
+- Day 1: Explore The Ridge, Mall Road, Christ Church, and nearby heritage areas.
+- Day 2: Choose a nearby outing such as Kufri, Mashobra, or Naldehra based on weather and interest.
+
+4-DAY SHIMLA AND SURROUNDINGS
+- Day 1: Arrive and explore central Shimla.
+- Day 2: Heritage walks and local markets.
+- Day 3: Visit a nearby destination such as Mashobra or Kufri.
+- Day 4: Relaxed morning and departure.
+
+4-DAY MANALI TRIP
+- Day 1: Arrive, rest, and explore local areas.
+- Day 2: Visit Hadimba Temple, Old Manali, and Vashisht.
+- Day 3: Visit Solang Valley or another suitable day trip based on weather and road access.
+- Day 4: Explore local markets and depart.
+
+3-DAY DHARAMSHALA TRIP
+- Day 1: Explore Dharamshala and local markets.
+- Day 2: Visit McLeod Ganj and Tibetan cultural sites.
+- Day 3: Visit a nearby temple or nature area depending on weather and trail access.
+
+3-DAY BIR BILLING TRIP
+- Day 1: Arrive and explore Bir.
+- Day 2: Try paragliding only if conditions are safe and an authorized operator confirms availability; otherwise explore monasteries and village paths.
+- Day 3: Relaxed morning and departure.
+
+3-DAY KASOL AND PARVATI VALLEY TRIP
+- Day 1: Arrive in Kasol and explore nearby paths.
+- Day 2: Visit Manikaran and/or a village such as Chalal or Tosh, depending on transport and trail conditions.
+- Day 3: Relaxed morning and departure.
+
+6-8 DAY SPITI TRIP
+- Plan a route only after confirming current road access, starting point, season, permits, and accommodation.
+- Include gradual acclimatization, buffer time, and conservative daily driving distances.
+- Possible interests include Kaza, Key Monastery, nearby villages, Tabo, Dhankar, and Pin Valley if accessible.
+- Never guarantee the full route, road opening, or all villages without live verification.
+
+These are sample structures, not guaranteed schedules. Actual order and duration should reflect current conditions, traveler fitness, budget, transport, and interests.
+
+5. LOCAL FOOD TO TRY
+
+Common Himachali foods and regional dishes include:
+- Dham: A traditional festive meal; recipes vary by region.
+- Siddu: A steamed bread often served with ghee or accompaniments.
+- Madra: A yogurt-based dish made in different regional styles.
+- Chha Gosht: A traditional meat dish in some areas.
+- Babru: A stuffed fried bread found in parts of the state.
+- Aktori: A buckwheat-based dish associated with some regions.
+- Trout: Available at some locations; confirm sourcing and restaurant availability.
+- Tibetan-influenced foods such as momos and thukpa are common in some mountain towns.
+
+Availability and preparation vary by restaurant and region. Ask about ingredients and dietary requirements, including vegetarian, vegan, gluten-free, or allergy needs.
+
+6. CULTURE, ETIQUETTE, AND RESPONSIBLE TRAVEL
+
+- Be respectful in temples, monasteries, gurudwaras, and other sacred places.
+- Follow posted rules about footwear, clothing, photography, and restricted areas.
+- Ask permission before photographing people, ceremonies, homes, or private property.
+- Avoid littering; carry waste back when bins are unavailable.
+- Avoid loud music and disruptive behavior in villages and natural areas.
+- Use marked trails and qualified local guides for unfamiliar or difficult treks.
+- Avoid single-use plastics where possible and protect rivers and forests.
+- Support local homestays, guides, artisans, and small businesses responsibly.
+- Do not disturb wildlife or feed wild animals.
+- Follow fire restrictions and do not light fires in forests or unsafe areas.
+
+7. TRANSPORT AND GETTING AROUND
+
+- Common access points include road and bus connections from major North Indian cities, with rail and air connections serving some nearby hubs.
+- Shimla, Manali, Dharamshala, and other towns have varying local taxi, bus, and shared-transport options.
+- Mountain travel is slower than distance alone suggests. Roads may be narrow, winding, or affected by weather.
+- Allow buffer time for delays, especially in monsoon, winter, and high-altitude areas.
+- Confirm current bus and train schedules, flight operations, taxi rates, road conditions, and permits before booking.
+- For remote areas, confirm fuel, cash, mobile network coverage, accommodation, and emergency options.
+- Do not assume every destination has reliable mobile data, ATMs, hospitals, or card payments.
+
+8. SAFETY AND HEALTH
+
+- Check official weather warnings, road status, and district advisories before departure.
+- In heavy rain, avoid riverbanks, landslide-prone slopes, and flooded roads.
+- In snow or ice, use suitable vehicles and experienced drivers; follow local restrictions.
+- For high-altitude travel, ascend gradually and learn symptoms of acute mountain sickness, such as headache, nausea, dizziness, unusual fatigue, or breathlessness. Severe symptoms require urgent descent and medical assistance.
+- Carry personal medicines, warm layers, rain protection, water, snacks, power bank, and identification.
+- Share plans with someone and avoid trekking alone in unfamiliar terrain.
+- Use authorized operators for adventure activities and follow safety instructions.
+- Keep emergency contacts and travel insurance details accessible.
+- This guide is not medical or emergency advice. In an emergency, contact local authorities or medical services.
+
+9. TRAVEL PLANNING BY TRAVELER TYPE
+
+FAMILIES
+- Consider Shimla, Manali, Dharamshala, Dalhousie, or Palampur depending on travel time and mobility.
+- Prefer shorter drives, comfortable accommodation, rest breaks, and activities suitable for children or older travelers.
+- Verify accessibility and medical facilities in advance.
+
+COUPLES
+- Consider Shimla, Manali, Tirthan Valley, Dharamshala, or Kinnaur depending on season and preferred pace.
+- Compare private rooms, views, transport, cancellation terms, and realistic driving time.
+
+BACKPACKERS
+- Consider Kasol and Parvati Valley, Dharamshala/McLeod Ganj, Bir, or selected village stays.
+- Verify trail conditions, transport frequency, hostel availability, and local rules.
+
+ADVENTURE TRAVELERS
+- Possible interests include trekking, paragliding, skiing, rafting, and mountain biking where legally offered and conditions allow.
+- Check operator authorization, safety equipment, insurance coverage, weather restrictions, and cancellation policies.
+
+NATURE AND CULTURE TRAVELERS
+- Consider Tirthan Valley, Great Himalayan National Park surroundings, Kinnaur, Spiti, Kangra, and Palampur.
+- Check access rules, seasonal closures, local customs, and whether a guide is required.
+
+10. BUDGET PLANNING
+
+Actual costs change by season, demand, accommodation category, transport, group size, and booking date. This file intentionally does not give fixed prices.
+
+When estimating a trip, separate:
+- Transport to Himachal Pradesh.
+- Local transport and transfers.
+- Accommodation per night and number of rooms.
+- Meals per person per day.
+- Entry tickets and permits.
+- Adventure activities.
+- Guide fees.
+- Insurance and emergency buffer.
+- Taxes, service fees, and cancellation costs.
+
+Always ask whether the user's budget is per person or for the whole group, whether it includes travel to and from Himachal, the number of travelers, and the preferred accommodation level. Use current quotes rather than invented prices.
+
+11. INFORMATION AN AI TRAVEL ASSISTANT SHOULD COLLECT
+
+Before recommending an itinerary or package, determine:
+- Starting city.
+- Destination preferences, or whether the traveler wants suggestions.
+- Travel dates and flexibility.
+- Number of nights or total duration.
+- Number of adults and children, including children's ages where relevant.
+- Total budget and whether it is per person or for the group.
+- Accommodation preference: budget, standard, premium, homestay, hostel, or resort.
+- Travel style: family, couple, solo, backpacking, culture, nature, adventure, or relaxation.
+- Transport preference: bus, train, flight plus transfer, self-drive, or private cab.
+- Food or accessibility requirements.
+- Activity interests and physical comfort with hiking or altitude.
+- Any constraints, such as avoiding long drives, snow, crowds, or difficult roads.
+
+Then:
+1. Ask only for missing information that materially affects the recommendation.
+2. Search current, relevant travel websites or authorized APIs for real packages, hotels, transport, activities, and availability.
+3. Filter hard constraints first: dates, destination, budget, group size, and required features.
+4. Rank remaining options by relevance, travel time, reviews from trustworthy sources, inclusions, and value.
+5. Show source URLs and clearly distinguish verified facts from estimates.
+6. Never invent a package, price, review, booking link, permit status, or availability.
+7. State the date on which live prices and availability were checked.
+8. Offer alternatives when no option meets all constraints.
+
+12. RAG AND DATA-MAINTENANCE NOTES
+
+This text is a general knowledge document for semantic retrieval. It is not a source of live prices or current package inventory.
+
+Suggested metadata for this document:
+- source_type: destination_guide
+- region: Himachal Pradesh
+- language: English
+- data_kind: general_travel_knowledge
+- freshness: evergreen_with_periodic_review
+
+For a RAG system:
+- Load the text as a document.
+- Split it into chunks using headings and paragraph boundaries where possible.
+- Attach metadata such as region, destination, topic, and source.
+- Generate embeddings and store them with text chunks in PostgreSQL using pgvector.
+- Retrieve relevant chunks for questions about destinations, seasons, food, safety, and itinerary ideas.
+- Use live search or authorized APIs for current prices, packages, availability, opening hours, and road conditions.
+- Keep live search results separate from evergreen destination knowledge and retain each result's source URL and retrieval timestamp.
